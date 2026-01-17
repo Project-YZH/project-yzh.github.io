@@ -1,10 +1,14 @@
-## 静态控制（Static Control）
-
 **隐私保护-静态信息流跟踪与控制**
+
+
 
 **组成：** Android移动客户端，Java云端服务器（集成改进版FlowDroid静态分析模块与SOOT插桩框架），FSAFlow演示系统。
 
+
+
 **目的：** 旨在解决传统静态分析缺乏运行时信息以及动态分析开销过大的问题。通过结合静态预分析与动态路径跟踪的混合分析（Hybrid Analysis）方法，利用状态缩减策略（State-Reduction Strategy），实现对Android应用中隐私数据从源头（Source）到接收点（Sink）的低开销、高精度的动态路径监控与拦截控制。
+
+
 
 **操作流程：**
 ① 用户首先在移动客户端上为目标应用程序定制隐私流向策略（Flow Policy），随后通过WebSocket协议将该策略文件连同对应的APK文件上传至云端服务器。
