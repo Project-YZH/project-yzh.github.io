@@ -1,17 +1,8 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Yangzhi](https://img.shields.io/badge/yangzhi-github-blue?logo=github)](https://github.com/Project-YZH/Android-Privacy-and-Security-Enhancement-Prototype-System)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+基于复杂信息流模式的Android系统智能高效隐私保护技术研究”研究面向安卓的细粒度复杂信息流控制理论和技术，主要研究内容：一是研究基于程序切片的静动态信息流分析技术，实现高效地标识和抽取复杂敏感信息流的定量和结构模式特征，解决信息流控制缺乏细粒度上下文支持问题；二是研究基于机器学习的统计模式识别和基于自动机理论的结构模式识别技术，实现智能分类信息流模式，解决信息流控制决策依赖用户经验问题；三是研究面向信息流模式的策略语言和标记生成技术，实现简洁灵活的策略管理，解决模式感知的复杂信息流控制的最优化实现问题。通过上述对敏感信息流的标识、分类和控制研究，最终实现对安卓隐私风险的跟踪监视和细粒度控制，有效防止安卓系统隐私泄露。
 
-#### Contact
 
-Email: senli[at]fas.harvard.edu
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
 
